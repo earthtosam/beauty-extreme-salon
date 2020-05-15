@@ -362,7 +362,7 @@ input:focus {
     top: 50%;
     font-size: 100px;
     color: #a3191d;
-    font-family: "Playfair Display", serif;
+    font-family: "all-round-gothic", serif;
     text-transform: uppercase;
     line-height: 1;
     -webkit-transform: translateY(-50%);
@@ -412,7 +412,7 @@ input:focus {
   box-shadow: none; }
 
 .akame-btn {
-  font-family: "Playfair Display", serif;
+  font-family: "all-round-gothic", serif;
   position: relative;
   z-index: 1;
   min-width: 150px;
@@ -761,7 +761,7 @@ input:focus {
       font-size: 20px;
       display: block;
       margin-bottom: 15px;
-      font-family: "Playfair Display", serif; }
+      font-family: "all-round-gothic", serif; }
       .single-post-area .post-content .post-title:hover, .single-post-area .post-content .post-title:focus {
         color: #a3191d; }
     .single-post-area .post-content .post-meta {
@@ -803,7 +803,7 @@ input:focus {
       font-size: 42px;
       display: block;
       margin-bottom: 0;
-      font-family: "Playfair Display", serif; }
+      font-family: "all-round-gothic", serif; }
       @media only screen and (max-width: 767px) {
         .akame-blog-details-area .post-content .post-title {
           font-size: 30px; } }
@@ -1431,7 +1431,7 @@ input:focus {
     top: 50%;
     font-size: 48px;
     color: #a3191d;
-    font-family: "Playfair Display", serif;
+    font-family: "all-round-gothic", serif;
     text-transform: uppercase;
     line-height: 1;
     -webkit-transform: translate(-50%, -50%);
